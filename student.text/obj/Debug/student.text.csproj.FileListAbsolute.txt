@@ -1,0 +1,7 @@
+M:\New folder (7)\student.text\student.text\bin\Debug\student.text.exe.config
+M:\New folder (7)\student.text\student.text\bin\Debug\student.text.exe
+M:\New folder (7)\student.text\student.text\bin\Debug\student.text.pdb
+M:\New folder (7)\student.text\student.text\obj\Debug\student.text.csproj.AssemblyReference.cache
+M:\New folder (7)\student.text\student.text\obj\Debug\student.text.csproj.CoreCompileInputs.cache
+M:\New folder (7)\student.text\student.text\obj\Debug\student.text.exe
+M:\New folder (7)\student.text\student.text\obj\Debug\student.text.pdb
